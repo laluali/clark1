@@ -17,6 +17,9 @@ You will need the following things properly installed on your computer.
 * `git clone <repository-url>` this repository
 * `cd questionnaire-app`
 * `npm install`
+* `npm install -g ember-cli`
+* `npm install -g bower`
+* `bower install`
 
 ## Running / Development
 
